@@ -1,0 +1,1 @@
+Копаемся в jabber-боте BlackSmith
